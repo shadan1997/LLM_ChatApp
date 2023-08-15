@@ -55,18 +55,6 @@ The code combines PDF text extraction, embeddings, vector storage, and a chatbot
 Tutorial: https://www.youtube.com/watch?v=RIWbalZ7sTo
 
 
-file name bot.py
-
-I have developed a user interface (UI) application using the Tkinter library. This UI application is designed to extract data from PDF files and provides a search feature for questions.
-
-The UI is built using Tkinter and offers a seamless experience for users. It allows users to upload a PDF file, from which data can be extracted. Additionally, users can input questions to search for specific information within the PDF document.
-
-Key features of the UI application:
-
-User-friendly interface developed with Tkinter.
-Extraction of data from uploaded PDF files.
-Searching for specific information based on user-input questions.
-The application streamlines the process of extracting relevant information from PDF documents, making it efficient and accessible for users. 
 
 
 
