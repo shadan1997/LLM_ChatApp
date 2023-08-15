@@ -10,3 +10,5 @@ faiss-cpu==1.7.4
 altair==4.1.0
 tiktoken
 streamlit-extras
+
+Tutorial: https://www.youtube.com/watch?v=RIWbalZ7sTo
